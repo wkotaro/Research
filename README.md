@@ -21,12 +21,12 @@ For saving movie.
 
 ## Content
 
-<div align="center"> <img src="https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg", title="Original"> </div>
+<div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg", title="Original"> </div>
 
-<div align="center"> <img src="https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg", title="Gamma"> </div>
+<div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg", title="Gamma"> </div>
 
-<div align="center"> <img src="https://github.com/wkotaro/Research/blob/master/gray/cylinder_46/00000000.jpg", title="Gray"> </div>
+<div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/gray/cylinder_46/00000000.jpg", title="Gray"> </div>
 
-<div align="center"> <img src="https://github.com/wkotaro/Research/blob/master/gauss/cylinder_46/00000000.jpg", title="Gauss"> </div>
+<div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/gauss/cylinder_46/00000000.jpg", title="Gauss"> </div>
 
-<div align="center"> <img src="https://github.com/wkotaro/Research/blob/master/out/cylinder_46/00000000.jpg", title="Out"> </div>
+<div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/out/cylinder_46/00000000.jpg", title="Out"> </div>
