@@ -21,10 +21,10 @@ For saving movie.
 
 ## Content
 
-![Original](https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg)|H|![Gamma](https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg)
-|J|
-![Gauus](https://github.com/wkotaro/Research/tree/master/gauss/cylinder_46/0000000.jpg)|H|![Gray](https://github.com/wkotaro/Research/blob/master/gray/cylinder_46/00000000.jpg)
-|J|
+![Original](https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg)|![Gamma](https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg)
+
+![Gauus](https://github.com/wkotaro/Research/blob/master/gauss/cylinder_46/00000000.jpg)|![Gray](https://github.com/wkotaro/Research/blob/master/gray/cylinder_46/00000000.jpg)
+
 ![out](https://github.com/wkotaro/Research/blob/master/out/cylinder_46/00000000.jpg)
 
 ## Contributing
