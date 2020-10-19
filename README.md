@@ -21,14 +21,6 @@ For saving movie.
 
 ## Content
 
-<div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg", title="Original"> </div>
+<div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg", title="Original"> </div> <div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg", title="Gamma"> </div> <div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/out/cylinder_46/00000000.jpg", title="Out"> </div>
 
-Research image
-
-<div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg", title="Gamma"> </div>
-
-Decrease white below the image
-
-<div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/out/cylinder_46/00000000.jpg", title="Out"> </div>
-
-Binarization
+Research image    Decrease white below the imag   Binarization
