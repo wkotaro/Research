@@ -19,8 +19,10 @@ pip install imgviz
 ```
 For saving movie.
 
-## Content
+## First Content
 
-<div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg", title="Original"> </div> <div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg", title="Gamma"> </div> <div align="left"> <img src="https://github.com/wkotaro/Research/blob/master/out/cylinder_46/00000000.jpg", title="Out"> </div>
+![Original](https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg) ![Gamma](https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg)![Out](https://github.com/wkotaro/Research/blob/master/out/cylinder_46/00000000.jpg)
 
-Research image    Decrease white below the imag   Binarization
+Searching Whole Images.
+
+
