@@ -24,7 +24,10 @@ For saving movie.
 
 Researching Whole Image
 
-![Original](https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg "Original Image") ![Gamma](https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg "Corrected Image")　　![Out](https://github.com/wkotaro/Research/blob/master/out/cylinder_46/00000000.jpg "Result")
+![Original](https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg "Original Image") ![Gamma](https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg "Corrected Image")  ![Out](https://github.com/wkotaro/Research/blob/master/out/cylinder_46/00000000.jpg "Result")
 
+### Second
+
+Researching Separated Image
 
 
