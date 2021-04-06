@@ -20,17 +20,14 @@ pip install imgviz
 For saving movie.
 
 ## Content
+### First
 
-![Original](https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg)|H|![Gamma](https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg)
-|J|
-![Gauus](https://github.com/wkotaro/Research/tree/master/gauss/cylinder_46/0000000.jpg)|H|![Gray](https://github.com/wkotaro/Research/blob/master/gray/cylinder_46/00000000.jpg)
-|J|
-![out](https://github.com/wkotaro/Research/blob/master/out/cylinder_46/00000000.jpg)
+Researching Whole Image
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+![Original](https://github.com/wkotaro/Research/blob/master/original/cylinder_46/00000000.jpg "Original Image") ![Gamma](https://github.com/wkotaro/Research/blob/master/gamma/cylinder_46/00000000.jpg "Corrected Image")  ![Out](https://github.com/wkotaro/Research/blob/master/out/cylinder_46/00000000.jpg "Result")
 
-Please make sure to update tests as appropriate.
+### Second
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Researching Separated Image
+
+
